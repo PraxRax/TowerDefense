@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae42de302eb634447bcd9cc57f72b6aa, type: 3}
+  m_Name: StandardTurret_upgraded_1
+  m_EditorClassIdentifier: 
+  ST: {fileID: 11400000, guid: c517fa50363fc17458150b82cfb74b78, type: 2}
+  upgradedTurretScriptableObject: {fileID: 0}
+  prefab: {fileID: 8024039147296523889, guid: 2bfcccd7f00ea9544ac1e41bd1d1967b, type: 3}
+  range: 20
+  turnSpeed: 65
+  cost: 0
+  upgradeCost: 0
+  sellAmount: 60
+  upgradedPrefab: {fileID: 0}
+  damage: 2
+  fireRate: 2
+  damageOverTime: 0
+  slowAmount: 0
+  bulletPrefab: {fileID: 463285864262611036, guid: b6e0dcbfd01da344ca402f4a426fc975,
+    type: 3}
+  speed: 75
+  explosionRadius: 0
+  bulletFiredEffect: {fileID: 0}
